@@ -40,5 +40,4 @@ Outputs are written to `outputs/`.
 - Add explainability and calibration checks.
 - Deploy a trained model through a small REST API only after validating it.
 
-## Resume use
-After you run this project, review the generated metrics and be ready to explain the train/test split, leakage prevention, precision vs. recall, and why you chose the final model. Do not claim real-world impact or specific performance before validating on a real dataset.
+
